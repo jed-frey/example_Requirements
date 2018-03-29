@@ -22,8 +22,8 @@ All of these files have been *automatically generated* from [`REQUIREMENTS.md`](
 
 ## Microsoft Office
 
-- [Requirements.docx](output/Requirements.docx)
-- [Requirements.pptx](output/Requirements.pptx)
+- [Requirements.docx](https://github.com/jed-frey/example_Requirements/raw/master/output/Requirements.docx)
+- [Requirements.pptx](https://github.com/jed-frey/example_Requirements/raw/master/output/Requirements.pptx)
 
 ## HTML
 
@@ -31,7 +31,6 @@ All of these files have been *automatically generated* from [`REQUIREMENTS.md`](
 - Default HTML output w/toc: [Requirements_toc.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements_toc.html)
 - Slidy HTML slideshow output: [Requirements.slidy.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.slidy.html)
 - [pandoc-bootstrap-adaptive-template](https://github.com/diversen/pandoc-bootstrap-adaptive-template) HTML output: [Requirements.pandoc-bootstrap-adaptive-template.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.pandoc-bootstrap-adaptive-template.html)
-
 - [pandoc-bootstrap-template template](https://github.com/tonyblundell/pandoc-bootstrap-template) HTML output: [Requirements.pandoc-bootstrap-template.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.pandoc-bootstrap-template.html)
 
 
