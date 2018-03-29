@@ -1,19 +1,24 @@
 # example_Requirements
 
-Example of using Git and Markdown for requirements management [```REQUIREMENTS.md```](REQUIREMENTS.md)
+[```REQUIREMENTS.md```](REQUIREMENTS.md), an example of using Git and Markdown for requirements management by tracking requirement requirements.
 
 # Buring Platform
+
+Requirements tracking software is needlessly complex. IBM DOORS is needlessly expensive:
 
 - [IBM DOORS](https://www.ibm.com/us-en/marketplace/requirements-management), Starting at $5,460.00 USD Per user
 - [IBM Doors Next Generation](https://www.ibm.com/us-en/marketplace/cloud-requirements-management), Starting at $164.00 USD per user per month
 
-Requirements tracking software is needlessly complex. IBM DOORS is needlessly expensive.
-
 [Pandoc](https://pandoc.org/) allows users to generate multiple outputs from a single input file.
+
+Markdown is platform-independent, intuitive, easy to learn, human-readable, and uses plain text while providing basic formatting and easy conversion to other formats.
 
 Using a```REQUIREMENTS.md``` file allows developers to:
 
-- Track 
+- Track requirement changes to an exact user / commit.
+- Easily compare any requirement changes using plain text tools.
+- Use code review tools to review requirements.
+- Automate document generation with Jenkins or other CI tools.
 
 
 # Example Outputs

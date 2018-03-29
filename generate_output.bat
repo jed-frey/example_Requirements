@@ -24,10 +24,6 @@ set TEMPLATE=pandoc-bootstrap-template
 set TEMPLATE_DIR=%~dp0.pandoc\templates\html\%TEMPLATE%
 pandoc %INPUT% --output=%OUTPUT_DIR%\Requirements.%TEMPLATE%.html --standalone --self-contained --template %TEMPLATE_DIR%\template.html --css %TEMPLATE_DIR%\template.css --table-of-contents --toc-depth 2
 
-set TEMPLATE=pandoc-bootstrap-adaptive-template
-set TEMPLATE_DIR=%~dp0.pandoc\templates\html\%TEMPLATE%
-pandoc %INPUT% --output=%OUTPUT_DIR%\Requirements.%TEMPLATE%.html --standalone --self-contained --template %TEMPLATE_DIR%\template.html --css %TEMPLATE_DIR%\template.css --table-of-contents --toc-depth 2
-
 :: PDFs with Templates
 set TEMPLATE_DIR=%~dp0.pandoc\templates\pdf\Eisvogel
 pandoc %INPUT% --output=%OUTPUT_DIR%\Requirements.eisvogel.pdf --standalone --template=%TEMPLATE_DIR%\eisvogel.tex
