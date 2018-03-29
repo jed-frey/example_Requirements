@@ -7,17 +7,23 @@ Example of using Git and Markdown for requirements management [```REQUIREMENTS.m
 - [IBM DOORS](https://www.ibm.com/us-en/marketplace/requirements-management), Starting at $5,460.00 USD Per user
 - [IBM Doors Next Generation](https://www.ibm.com/us-en/marketplace/cloud-requirements-management), Starting at $164.00 USD per user per month
 
-Requirements tracking is needlessly complex. IBM DOORS is needlessly expensive.
+Requirements tracking software is needlessly complex. IBM DOORS is needlessly expensive.
 
-[Pandoc](https://pandoc.org/) allows developers
+[Pandoc](https://pandoc.org/) allows users to generate multiple outputs from a single input file.
 
-# Example Output
+Using a```REQUIREMENTS.md``` file allows developers to:
+
+- Track 
+
+
+# Example Outputs
+
+All of these files have been *automatically generated* from [`REQUIREMENTS.md`](REQUIREMENTS.md) using `generate_output.bat`. This is not an exhaustive list of what output options are available.
 
 ## Microsoft Office
 
 - [Requirements.docx](output/Requirements.docx)
 - [Requirements.pptx](output/Requirements.pptx)
-
 
 ## HTML
 
