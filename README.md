@@ -27,12 +27,12 @@ All of these files have been *automatically generated* from [`REQUIREMENTS.md`](
 
 ## HTML
 
-- Default HTML output: [Requirements.html](output/Requirements.html)
-- Default HTML output w/toc: [Requirements_toc.html](output/Requirements_toc.html)
-- Slidy HTML slideshow output: [Requirements.slidy.html](output/Requirements.slidy.html)
-- [pandoc-bootstrap-adaptive-template](https://github.com/diversen/pandoc-bootstrap-adaptive-template) HTML output: [Requirements.pandoc-bootstrap-adaptive-template.html](output/Requirements.pandoc-bootstrap-adaptive-template.html)
+- Default HTML output: [Requirements.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.html)
+- Default HTML output w/toc: [Requirements_toc.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements_toc.html)
+- Slidy HTML slideshow output: [Requirements.slidy.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.slidy.html)
+- [pandoc-bootstrap-adaptive-template](https://github.com/diversen/pandoc-bootstrap-adaptive-template) HTML output: [Requirements.pandoc-bootstrap-adaptive-template.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.pandoc-bootstrap-adaptive-template.html)
 
-- [pandoc-bootstrap-template template](https://github.com/tonyblundell/pandoc-bootstrap-template) HTML output: [Requirements.pandoc-bootstrap-template.html](output/Requirements.pandoc-bootstrap-template.html)
+- [pandoc-bootstrap-template template](https://github.com/tonyblundell/pandoc-bootstrap-template) HTML output: [Requirements.pandoc-bootstrap-template.html](https://htmlpreview.github.io/?https://github.com/jed-frey/example_Requirements/blob/master/output/Requirements.pandoc-bootstrap-template.html)
 
 
 ## PDF
